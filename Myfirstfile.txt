@@ -1,5 +1,7 @@
 First file! Modified by developer 1.
+
 Change me to understand .git
 Modified in master branch.
 
 Modified in master branch to test git merge from github
+
