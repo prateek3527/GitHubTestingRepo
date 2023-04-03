@@ -1,2 +1,3 @@
 First file! Modified by developer 1.
 Change me to understand .git
+Modified in master branch.
